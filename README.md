@@ -28,3 +28,7 @@ Lastly, the GARCH model had better performance with the following showing all P 
 P>|z|: 3.708e-02, 2.974e-03
 
 
+### Regression Analysis
+
+"regression_analysis.ipynb" used a linear regression model built with Sklearn.  An initial plot of Returns and Predicted Returns, does not show the model to be effective.  This is further proved by the RMSE values of 0.4136504970669482 (Out of Sample) and 0.7059387714146014 (In Sample).  A model score returns a value of 0.0010352412489498253.
+
