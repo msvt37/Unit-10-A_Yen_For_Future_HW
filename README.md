@@ -7,7 +7,7 @@ This homework for unit 10 focused on the use of time series analysis and regress
 
 Much of the code was pulled from various class examples.  A data file, yen.csv, was provided which contained the historical OHLC Yen values and Yen-Dollar futures.
 
-###### Time Series
+### Time Series
 
 "time_series_analysis.ipynb" focused on using the ARMA and ARIMA models for analysis.  The ARMA modeled generated the following for the model summary:
 
